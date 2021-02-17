@@ -1,0 +1,313 @@
+/* --------------------------------- Reset Page. --*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow: auto;
+}
+
+body {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  text-align: center;
+}
+
+input {
+  outline: none;
+}
+
+/* --------------------------------------------------- Width Variables. ---------*/
+/* --------------------------------------------------- Font Variables. ---------*/
+/* --------------------------------------------------- Colours Variables. ---------*/
+/* --------------------------------------------------- Spacing Variables. ---------*/
+/* --------------------------------------------------- Transitions Variables. ---------*/
+.top-header a, body .header-section .accounts-icons a, body .header-section .cart-icon a, body .header-section .social-icons a {
+  margin: 0.4rem;
+  text-align: center;
+  color: #588157;
+  font-size: 0.7rem;
+}
+.top-header a i, body .header-section .accounts-icons a i, body .header-section .cart-icon a i, body .header-section .social-icons a i {
+  color: #588157;
+  font-size: 0.7rem;
+}
+
+.inner-nav, body .footer-copyrights, body .footer-section .footer-info .info-contact, body .footer-section .footer-info .info-email, body .footer-section .footer-info .info-tel, body .footer-section .footer-info .info-address, body .footer-section, body .navbar-section, body .header-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0.4rem;
+}
+
+.body-content-styles, body .body-content {
+  grid-area: cntnt;
+  background: #dad7cd;
+  color: #344e41;
+  height: auto;
+  margin: 0 auto;
+  padding: 3rem;
+  width: 100%;
+}
+.body-content-styles h1, body .body-content h1 {
+  text-align: center;
+  padding: 3rem;
+}
+
+.contactus-iframe {
+  border: none;
+  width: 100vw;
+  height: 200px;
+}
+
+.contact-info-style {
+  display: grid;
+  grid-auto-flow: column;
+  place-items: center space-around;
+}
+.contact-info-style i {
+  justify-self: left;
+  margin: 1rem;
+  width: 0.8rem;
+}
+.contact-info-style p {
+  justify-self: left;
+  margin: 1rem;
+}
+
+.input-styles {
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+}
+.input-styles::-moz-placeholder {
+  color: #588157;
+  font-size: 1rem;
+}
+
+.policies-style {
+  padding: 3rem 5rem;
+  line-height: 1.4;
+}
+.policies-style h2, .policies-style h3, .policies-style h4 {
+  text-align: center;
+  margin: 0.8rem;
+}
+.policies-style p, .policies-style li {
+  text-align: justify;
+  margin: 0.4rem;
+}
+.policies-style * a {
+  color: #344e41;
+}
+
+.form-logo-image {
+  width: 140px;
+  margin: 0.4rem;
+}
+
+.signin-signup-form-class {
+  width: 40vw;
+  background: #588157;
+  margin: 0 auto 3rem;
+  padding: 1rem;
+  display: grid;
+  grid-gap: 1rem;
+  border: 4px dashed #344e41;
+  border-radius: 15px;
+}
+.signin-signup-form-class * {
+  color: #dad7cd;
+}
+.signin-signup-form-class .signin-signup-inputs {
+  width: 100%;
+}
+.signin-signup-form-class .signin-signup-inputs input[type=text], .signin-signup-form-class .signin-signup-inputs input[type=password], .signin-signup-form-class .signin-signup-inputs input[type=email], .signin-signup-form-class .signin-signup-inputs input[type=tel] {
+  width: 300px;
+  margin: 1rem;
+}
+.signin-signup-form-class .signin-signup-inputs input[type=text]::-moz-placeholder, .signin-signup-form-class .signin-signup-inputs input[type=password]::-moz-placeholder, .signin-signup-form-class .signin-signup-inputs input[type=email]::-moz-placeholder, .signin-signup-form-class .signin-signup-inputs input[type=tel]::-moz-placeholder {
+  color: #3a5a40;
+  font-size: 1rem;
+}
+.signin-signup-form-class input[type=submit] {
+  width: 80px;
+  height: 3rem;
+  margin: 1rem auto;
+  color: #344e41;
+}
+
+.general-info-class {
+  width: 90%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.general-info-class img.general-img {
+  width: 100%;
+  height: 500px;
+}
+.general-info-class h3.general-head {
+  margin: 1rem 3rem;
+}
+.general-info-class p.general-txt {
+  text-align: justify;
+  margin: 1rem 0.8rem;
+}
+
+body {
+  max-width: 100vw;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: 40px 70px auto 200px 40px;
+  grid-template-areas: "smbr smbr smbr smbr smbr smbr smbr smbr smbr smbr smbr smbr" "nvbr nvbr nvbr nvbr nvbr nvbr nvbr nvbr nvbr nvbr nvbr nvbr" "cntnt cntnt cntnt cntnt cntnt cntnt cntnt cntnt cntnt cntnt cntnt cntnt" "ftr ftr ftr ftr ftr ftr ftr ftr ftr ftr ftr ftr" "cpyt cpyt cpyt cpyt cpyt cpyt cpyt cpyt cpyt cpyt cpyt cpyt";
+  /* ----------------------------- Body Content -------- */
+}
+body .header-section {
+  grid-area: smbr;
+  background: #344e41;
+}
+body .header-section .social-icons {
+  display: flex;
+  justify-content: space-around;
+}
+body .header-section .cart-icon {
+  display: flex;
+  justify-content: space-around;
+}
+body .header-section .accounts-icons {
+  display: flex;
+  justify-content: space-around;
+}
+body .header-section .accounts-icons p {
+  color: #588157;
+  font-size: 1rem;
+  margin: 0.4rem;
+}
+body .navbar-section {
+  grid-area: nvbr;
+  background: #3a5a40;
+}
+body .navbar-section ul.nav-list {
+  display: flex;
+  place-items: center;
+}
+body .navbar-section ul.nav-list li {
+  margin: 0.2rem 0.8rem;
+}
+body .navbar-section ul.nav-list li a {
+  color: #a3b18a;
+  font-size: 1.3rem;
+}
+body .navbar-section img.nav-image {
+  max-width: 100%;
+}
+body .footer-section {
+  grid-area: ftr;
+  background: #3a5a40;
+}
+body .footer-section * {
+  color: #a3b18a;
+  font-size: 0.7rem;
+}
+body .footer-section .footer-info {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+body .footer-section .footer-info .info-text {
+  padding: 0.2rem;
+  text-align: center;
+}
+body .footer-section .footer-info .info-address {
+  text-align: center;
+}
+body .footer-section .footer-info .info-address i {
+  justify-self: left;
+}
+body .footer-section .footer-info .info-address p span.street {
+  display: inline-block;
+  width: 100%;
+}
+body .footer-section .footer-info .info-tel i {
+  justify-self: left;
+}
+body .footer-section .footer-info .info-tel p {
+  width: 100%;
+  text-align: center;
+}
+body .footer-section .footer-info .info-email i {
+  justify-self: left;
+}
+body .footer-section .footer-info .info-email p {
+  width: 100%;
+  text-align: center;
+}
+body .footer-section .footer-info .info-contact i {
+  justify-self: left;
+}
+body .footer-section .footer-info .info-contact p {
+  width: 100%;
+  text-align: center;
+}
+body .footer-section .footer-menu {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+body .footer-section .footer-menu p {
+  padding: 0.2rem;
+  text-align: center;
+}
+body .footer-section .footer-menu li {
+  margin: 0.4rem;
+}
+body .footer-section .footer-subscribe {
+  padding: 1rem;
+  display: flex;
+  text-align: center;
+  place-content: center;
+}
+body .footer-section .footer-subscribe p {
+  padding: 0.2rem;
+  text-align: center;
+}
+body .footer-section .footer-subscribe input[type=email] {
+  width: 80%;
+  margin: 0.2rem;
+}
+body .footer-section .footer-subscribe input[type=submit] {
+  width: 40%;
+  margin: 0.2rem;
+}
+body .footer-section .footer-subscribe .img-subscribe {
+  text-align: center;
+}
+body .footer-section .footer-subscribe .img-subscribe img {
+  width: 70px;
+}
+body .footer-copyrights {
+  grid-area: cpyt;
+  background: #344e41;
+}
+body .footer-copyrights * {
+  color: #588157;
+  font-size: 0.7rem;
+}
+body .footer-copyrights i {
+  margin: 0.4rem;
+}
+
+/*# sourceMappingURL=staff-hub-styl.css.map */

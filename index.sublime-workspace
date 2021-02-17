@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"min-height\tproperty"
+			],
+			[
+				"gridt",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ga",
+				"grid-area\tproperty"
+			],
+			[
+				"grid-au",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"background-m",
+				"background-image\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"just",
+				"justify-content\tproperty"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"jus",
+				"justify-content\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"wra",
+				"flex-wrap\tproperty"
+			],
+			[
+				"sign",
+				"signup.html"
+			],
+			[
+				"sig",
+				"signup.html"
+			],
+			[
+				"pa",
+				"pages/"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"sty",
+				"styl-utilities/"
+			],
+			[
+				"lsit",
+				"list-style-type\tproperty"
+			],
+			[
+				"grare",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"ease",
+				"ease-in"
+			],
+			[
+				"sk",
+				"skewY()"
+			],
+			[
+				"rans",
+				"transparent"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"gap",
+				"grid-gap\tproperty"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"space",
+				"space-evenly"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"useEffe",
+				"useEffect"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"icon",
+				"IconButton"
+			],
+			[
+				"swi",
+				"swipeButtons"
+			],
+			[
+				"backgrou",
+				"background-position\tproperty"
+			],
+			[
+				"Tin",
+				"TinderCard"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"clas",
+				"className\t: DOMString Element"
+			],
+			[
+				"heade",
+				"Header"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"getA",
+				"getAll"
+			],
+			[
+				"getElem",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"modal",
+				"modalbg"
+			],
+			[
+				"querysele",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"document",
+				"documentElement\t: Element Document"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"for",
+				"for\tAttr"
+			],
+			[
+				"conten",
+				"content"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"ty",
+				"type\t: DOMString Blob"
+			],
+			[
+				"form",
+				"formParam"
+			],
+			[
+				"conslo",
+				"console_log"
+			],
+			[
+				"Cons",
+				"console_log"
+			],
+			[
+				"stat",
+				"status\t: DOMString Window"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"bod",
+				"body\t: HTMLElement Document"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"strin",
+				"String\t( value: any ): String String"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"cha",
+				"chai"
+			],
+			[
+				"chai",
+				"chaiHttp"
+			],
+			[
+				"c",
+				"const"
+			],
+			[
+				"jusi",
+				"justify-content\tproperty"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"de",
+				"defer\tAttr"
+			],
+			[
+				"bordbo",
+				"border-box"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"textdec",
+				"text-decoration\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"follow",
+				"followUser"
+			],
+			[
+				"followe",
+				"follower"
+			],
+			[
+				"clor",
+				"color\tproperty"
+			],
+			[
+				"video",
+				"video\t<video>"
+			],
+			[
+				"h",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"has-tx",
+				"has-text-link"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ge",
+				"get\tget"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: reactClass"
+			],
+			[
+				"snipp",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: rea",
+				"Snippet: reactClass"
+			],
+			[
+				"themes",
+				"Edge Theme: Preferences"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ahmdmwddh/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ahmdmwddh/02 ZUtilities/SubLime/Themes/AfterGlowThemeDocs",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/css/styl-pages/home-page.css",
+		"/home/ahmdmwddh/Desktop/PredawnThemeDocs",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/css/layout-styl.css",
+		"/home/ahmdmwddh/Desktop/SpaceGrayThemeDocs",
+		"/home/ahmdmwddh/Desktop/SodaThemeDocs",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/sitemap.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/visionmission.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/terms.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/staffhub.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/signin.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/signup.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/shipping.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/projects.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/services.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/refund.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/privacy.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/pagenotfound.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/inspiration.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/contact.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/checkout.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/cart.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/about.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/blogs.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/pages/profile.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/index.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-utilities/_variables.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-utilities/_extends.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-partials/_footer-info.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-utilities/_reset.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-partials/_navbar.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WebyDevy/WebyDevy-Ui/styl/sass/styl-partials/_header.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/index.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/styl-partials/_header.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/styl-partials/_footer-info.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/styl-utilities/_variables.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/styl-utilities/_extends.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/visionmission.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/terms.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/staffhub.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/sitemap.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/signup.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/signin.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/shipping.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/services.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/refund.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/projects.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/privacy.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/pagenotfound.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/inspiration.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/contact.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/checkout.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/about.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/pages/cart.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/layout-styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/sass/home-styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/home-styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-utilities/variables.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-utilities/extends.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-partials/copyright.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-partials/header.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-partials/navbar.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl-utilities/reset.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/styl.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/header.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/AMWStore/FrontEnd/styl/reset.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/SassTest/styl.sass",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/SassTest/index.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WaddahStore/css/utilities.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WaddahStore/css/light.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 PythonCrt/WaddahStore/index.html",
+		"/home/ahmdmwddh/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/ahmdmwddh/Downloads/dist/index.html",
+		"/home/ahmdmwddh/Downloads/AMWStore/index.html",
+		"/home/ahmdmwddh/Public/AMW-Gallery/btre_theme/dist/about.html",
+		"/home/ahmdmwddh/Public/AMW-Gallery/btre_theme/dist/index.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/gallery/settings.py",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/base.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/pages/views.py",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/partials/_navbar.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/partials/_topbar.html",
+		"/home/ahmdmwddh/Public/realtor-gallery/gallery/settings.py",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/accounts/dashboard.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/listings/listing.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/listings/listings.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/partials/_alerts.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/listings/search.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/accounts/register.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/accounts/login.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/pages/about.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/pages/index.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/about.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/dashboard.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/gallery/static/js/main.js",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/login.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/register.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/search.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/templates/partials/_footer.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/listing.html",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/listings.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/02 PythonCrt/realtor-gallery/gallery/static/css/admin.css",
+		"/home/ahmdmwddh/Public/RealtorRss/btre_theme/dist/index.html",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/axios.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/TinderCards.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-backend/.gitignore",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-backend/server.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-backend/dbCards.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/.gitignore",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/axios.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-backend/DB Pass.txt",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-backend/package.json",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/TinderCards.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/SwipeButtons.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/SwipeButtons.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/App.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/ImgCard.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/ImgCard.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/header.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/header.js",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/index.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/App.css",
+		"/home/ahmdmwddh/01 ZBusinessCrt/01 WebDev/01 JsCrt/MernStack/tinder-test/src/setupTests.js",
+		"/home/ahmdmwddh/Public/Prjctsreal.html",
+		"/home/ahmdmwddh/Public/ghghghg.html",
+		"/home/ahmdmwddh/Public/prjcts.html"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 156.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 345.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 580.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

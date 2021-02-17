@@ -1,0 +1,22 @@
+@import layout-styl.sass
+
+
+.body-content
+	@extend .body-content-styles
+	ul
+		width: 100%
+		display: grid
+		grid-gap: $spaceSizes1*1.5
+		grid-template-columns: repeat(4, minmax(150px, 1fr))
+		li
+			padding: $spaceSizes1
+			border: 1px solid $DarkestColor
+			a
+				width: 100%
+				color: $DarkestColor
+				img
+					width: 100%
+				h3
+					padding: $spaceSizes1 $spaceSizes08
+				p
+					text-align: justify

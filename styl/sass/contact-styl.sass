@@ -1,0 +1,56 @@
+@import layout-styl.sass
+
+
+.body-content
+	@extend .body-content-styles
+	iframe
+		@extend .contactus-iframe
+	.contact-grid
+		display: grid
+		padding: $spaceSizes3
+		grid-template-columns: 1fr 1fr
+		gap: $spaceSizes5
+		grid-template-areas: "txt frm"
+		.contact-data
+			grid-area: txt
+			display: grid
+			place-content: center
+			*
+				color: $DarkestColor
+			a.info-text
+				place-self: center
+				font-size: $LargeFontSize
+			.info-address
+				@extend .contact-info-style
+			.info-tel
+				@extend .contact-info-style
+			.info-email
+				@extend .contact-info-style
+			.info-contact
+				@extend .contact-info-style
+		form.contact-form
+			grid-area: frm
+			*
+				color: $DarkestColor
+			display: grid
+			gap: $spaceSizes1
+			grid-template-columns: repeat(4, 1fr)
+			grid-auto-rows: auto
+			grid-template-areas: "name name email email" "txtarea txtarea txtarea txtarea" ". submt submt ." 
+			input[type=email]
+				grid-area: email
+				@extend .input-styles
+			input[type=text]
+				grid-area: name
+				@extend .input-styles
+			textarea.texterea
+				grid-area: txtarea
+				@extend .input-styles
+			input[type=submit]
+				grid-area: submt
+				padding: $spaceSizes02
+				color: $LightColor
+				background: $DarkColor
+				border: $spaceSizes04 solid $LightColor
+				border-radius: $spaceSizes08
+				font-size: $NormalFontSize

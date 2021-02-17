@@ -1,0 +1,25 @@
+@import layout-styl.sass
+
+
+ul.catalogs-cards-container
+	height: auto
+	width: 100%
+	margin-bottom: $spaceSizes3
+	display: grid
+	gap: $spaceSizes1
+	grid-auto-flow: dense
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))
+	.catalogs-card
+		width: 90%
+		padding: $spaceSizes04
+		background: $LightColor
+		margin: 0 auto
+		img.catalogs-card-image
+			width: 100%
+		h3.catalogs-card-title
+			margin: $spaceSizes1
+			color: $DarkestColor
+		p.catalogs-card-text
+			color: $DarkColor
+			margin: $spaceSizes1
+			text-align: justify

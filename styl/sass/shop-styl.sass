@@ -1,0 +1,27 @@
+@import layout-styl.sass
+
+
+ul.collections-cards
+	height: auto
+	width: 100%
+	margin-bottom: $spaceSizes3
+	display: grid
+	gap: $spaceSizes1
+	grid-auto-flow: dense
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))
+	li.collection-card
+		width: 90%
+		padding: $spaceSizes04
+		background: $LightColor
+		margin: 0 auto
+		a.view-pointer
+			cursor: pointer
+		img.collection-card-image
+			width: 100%
+		h3.collection-card-title
+			margin: $spaceSizes1
+			color: $DarkestColor
+		p.collection-card-text
+			color: $DarkColor
+			margin: $spaceSizes1
+			text-align: justify

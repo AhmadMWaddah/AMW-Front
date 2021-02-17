@@ -1,0 +1,27 @@
+@import layout-styl.sass
+
+.body-content
+	@extend .body-content-styles
+	.not-found
+		background: radial-gradient(circle at center, $LightColor 0%, $NormalColor 100%)
+		text-align: center
+		width: 100%
+		height: calc(100vh - 250px)
+		margin: 0 auto
+		padding: $spaceSizes3 $spaceSizes5
+		*
+			color: $DarkestColor
+		h1
+			font-size: $spaceSizes5 * 1.7
+			padding: $spaceSizes04
+		p
+			font-size: $spaceSizes1*2
+			padding: $spaceSizes04
+			margin-bottom: $spaceSizes3
+		a.not-found-link
+			font-size: $spaceSizes1*1.5
+			border: $spaceSizes02/1.5 solid $LightestColor
+			border-radius: $spaceSizes04
+			background: $DarkestColor
+			color: $LightColor
+			padding: $spaceSizes04
